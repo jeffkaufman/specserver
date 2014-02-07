@@ -1,0 +1,5 @@
+This is code I wrote for a class project.
+
+It reads from the microphone, does a fourier transform, and provides a UDP service.
+
+The python client listens to that service and displays the frequencies.
